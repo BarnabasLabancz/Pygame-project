@@ -44,7 +44,7 @@ class InsertName():
         self.window_height = 720
         self.top_bar_height = 50
         self.move_left, self.move_right, self.move_up, self.move_down = False, False, False, False
-        self.lifes = 5
+        self.lifes = 4
         self.moving_speed = 3
         self.monster_speed = 0.75
         self.safe_zone_width = 160
